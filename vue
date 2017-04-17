@@ -12,7 +12,7 @@ Vue 是当今流行的三大 mv*框架之一 比较于其它重量级框架它�
 因为效率较高，体积较小，且上手容易，学习成本低，所以选择使用vue是一个非常不错的选择。
 
 
-
+![ABC](http://www.baidu.com/img/bdlogo.gif) 
 
 Vue官网及文档：https://cn.vuejs.org/v2/guide/
 Vue 社区：
